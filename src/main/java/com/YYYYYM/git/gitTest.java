@@ -8,6 +8,8 @@ public class gitTest {
         System.out.println("master添加内容");
         System.out.println("master添加内容");
         System.out.println("master添加内容");
+        System.out.println("pust测试");
+
     }
 
 }
