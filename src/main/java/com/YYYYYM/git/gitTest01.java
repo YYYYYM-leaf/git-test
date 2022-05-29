@@ -11,5 +11,9 @@ public class gitTest01 {
         System.out.println("gitTest01.main");
         System.out.println("gitTest01.main");
         System.out.println("args = " + Arrays.deepToString(args));
+        System.out.println("args = " + Arrays.deepToString(args));
+        System.out.println("args = " + Arrays.deepToString(args));
+        System.out.println("args = " + Arrays.deepToString(args));
+        System.out.println("args = " + Arrays.deepToString(args));
     }
 }
